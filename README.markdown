@@ -8,7 +8,7 @@ This package is part "code you can find elsewhere on the internet" (the Git Blam
 Installation
 ============
 
-    $ cd Library/Application\ Support/BBEdit/
+    $ cd ~/Library/Application\ Support/BBEdit/
     $ mkdir Packages # if it doesn't already exists
     $ cd Packages
     $ git clone https://github.com/rwilcox/git.bbpackage.git
